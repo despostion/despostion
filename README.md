@@ -1,21 +1,32 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=FFFFFF&width=435&lines=CAKES+PERSONAL+BIO;DEVELOPER)](https://git.io/typing-svg)
+# Hi 👋, I'm truce
 
-<img align="left" src="https://github.com/cachedcake/cachedcake/blob/main/images/waving-hand-sign-emoji-2048x1980-s2qlps2b.png" width="147" alt="Wave Image" /> 
+### A budding HTML developer
 
-github.com/cachedcake
+<p align="left"> <a href="https://twitter.com/despostion" target="blank"><img src="https://img.shields.io/twitter/follow/despostion?logo=twitter&style=for-the-badge" alt="despostion" /></a> </p>
 
+- 🔭 I'm currently working on **Rec Room mid-2023 Server: Radium!**
 
-discord  $  @shorned
+- 🌱 I'm currently learning **NodeJS**
 
+- 👯 I'm looking to collaborate on **open source projects!**
 
-&zwnj;
-Hello! I'm @despostion, but I go by shorned. If you'd like to contact me fast use my discord above!
+- 🤝 I'm looking for help with **learning literally everything 😭**
 
-Languages
+- 📫 How to reach me **shornedbusiness@gmail.com**
+
+- ⚡ Fun fact **im poor**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img alt="Java" src="https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java" />
-<img alt="CSS" src="https://img.shields.io/badge/-css-black?style=for-the-badge&logo=css" /><br>
-<img alt="Python" src="https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python" />
-<img alt="C++" src="https://img.shields.io/badge/-c++-black?style=for-the-badge&logo=cplusplus" /><br>
+<a href="https://github.com/despostion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="despostion" height="30" width="40" /></a>
+<a href="https://instagram.com/despostion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="despostion" height="30" width="40" /></a>
+<a href="https://twitter.com/despostion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="despostion" height="30" width="40" /></a>
+</p>
 
-</p> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=despostion&show_icons=true&locale=en&layout=compact" alt="despostion" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=despostion&show_icons=true&locale=en" alt="despostion" /></p>
+
